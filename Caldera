@@ -4,6 +4,8 @@
 
 参考https://caldera.readthedocs.io/en/latest/Installing-Caldera.html#offline-installation
 
+![](https://github.com/noobwei/Y-Lab/blob/main/SCR-20250303-piqc.png)
+
 在部署agent之前通过`ipconfig getifaddr en0`获取本机的IP，可以在docker中尝试curl来验证是否连通
 
 
